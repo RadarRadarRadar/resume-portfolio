@@ -845,7 +845,12 @@ pre code {
     flex: 0 0 16.6666666667%;
     max-width: 16.6666666667%;
   }
-
+  /* .carousel {
+    border-radius: 0.25rem;
+    overflow: hidden;
+    height: 400px;
+    max-height: 400px;
+  } */
   .col-sm-auto {
     flex: 0 0 auto;
     width: auto;
